@@ -62,5 +62,6 @@ This documentation provides information about the News Aggregator API, which gat
   - Additional parameters may be supported. Refer to The New York Times API documentation for details.
 
 # ScreenShot
+![SS](https://github.com/Mirza-Hassan/React_NewsWebsite/assets/17096257/eb175c89-22ea-4989-a7c9-e4e28aaa7e10)
 
 # Live URL
