@@ -11,6 +11,7 @@ Create a user interface for a news aggregator website with article search, filte
 - [Setup Instructions](#setup-instructions)
 - [Endpoints](#endpoints)
 - [ScreenShot](#screenshot)
+- [Demo](#app-flow)
 - [Live URL](#live-url)
 
 # Pre Requisites
@@ -63,6 +64,9 @@ This documentation provides information about the News Aggregator API, which gat
 
 # ScreenShot
 ![SS](https://github.com/Mirza-Hassan/React_NewsWebsite/assets/17096257/eb175c89-22ea-4989-a7c9-e4e28aaa7e10)
+
+# App Flow
+[Demo.webm](https://github.com/Mirza-Hassan/React_NewsWebsite/assets/17096257/429eafd8-7121-48cd-bbd5-2a9296794480)
 
 # Live URL
 https://articlewebsite.surge.sh/ 
