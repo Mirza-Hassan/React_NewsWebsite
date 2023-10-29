@@ -10,6 +10,7 @@ Create a user interface for a news aggregator website with article search, filte
 - [Folder Structure](#folder-structure)
 - [Setup Instructions](#setup-instructions)
 - [ScreenShot](#screenshot)
+- [Live URL](#live-url)
 
 # Pre Requisites
 
@@ -18,6 +19,7 @@ Create a user interface for a news aggregator website with article search, filte
 - Containerization: Docker
   
 # Folder Structure
+![FS](https://github.com/Mirza-Hassan/React_NewsWebsite/assets/17096257/0d85e198-9f94-406e-b496-1365db67ac33)
 
 # Setup Instructions
 
