@@ -9,6 +9,7 @@ Create a user interface for a news aggregator website with article search, filte
 - [Pre Requisites](#pre-requisites)
 - [Folder Structure](#folder-structure)
 - [Setup Instructions](#setup-instructions)
+- [Endpoints](#endpoints)
 - [ScreenShot](#screenshot)
 - [Live URL](#live-url)
 
@@ -29,6 +30,36 @@ Create a user interface for a news aggregator website with article search, filte
 2. Running the app
 
 - Run `docker-compose up`
+
+
+# Endpoints
+
+This documentation provides information about the News Aggregator API, which gathers news articles from various sources and provides access to them through the following endpoints.
+
+### 1. The Guardian API
+
+- **Endpoint:** `https://content.guardianapis.com/search`
+- **Description:** Retrieves news articles from The Guardian.
+- **Parameters:** 
+  - `api-key` (string, required): Your API key for access.
+  - Additional parameters may be supported. Refer to The Guardian API documentation for details.
+
+### 2. News API
+
+- **Endpoint:** `https://newsapi.org/v2/top-headlines`
+- **Description:** Retrieves top headlines from various news sources worldwide.
+- **Parameters:** 
+  - `country` (string, required): The country code for the headlines you want to retrieve.
+  - `apiKey` (string, required): Your API key for access.
+  - Additional parameters may be supported. Refer to the News API documentation for details.
+
+### 3. New York Times API
+
+- **Endpoint:** `https://api.nytimes.com/svc/topstories/v2/us.json`
+- **Description:** Retrieves top stories from The New York Times.
+- **Parameters:** 
+  - `api-key` (string, required): Your API key for access.
+  - Additional parameters may be supported. Refer to The New York Times API documentation for details.
 
 # ScreenShot
 
