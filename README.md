@@ -65,3 +65,5 @@ This documentation provides information about the News Aggregator API, which gat
 ![SS](https://github.com/Mirza-Hassan/React_NewsWebsite/assets/17096257/eb175c89-22ea-4989-a7c9-e4e28aaa7e10)
 
 # Live URL
+https://articlewebsite.surge.sh/ 
+(Todo: will look into Cors issue)
