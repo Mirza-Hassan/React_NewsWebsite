@@ -28,11 +28,20 @@ Create a user interface for a news aggregator website with article search, filte
 1. Clone the repository
 - Run `git clone https://github.com/Mirza-Hassan/React_NewsWebsite.git` 
 
-2. Running the app
+2. Build the Docker image:
+- `docker build -t my-news-app .`
 
-- Run `docker-compose up`
+3. Run a Docker container based on the image:
 
+- `docker run -p 3000:3000 my-news-app`
 
+Access the web app in your browser at http://localhost:3000
+
+### Manual Installation
+1. Navigate to the `React_NewsWebsite` directory and install dependencies: `npm install`
+
+2. Start the development server: `npm start`
+   
 # Endpoints
 
 This documentation provides information about the News Aggregator API, which gathers news articles from various sources and provides access to them through the following endpoints.
